@@ -1,0 +1,30 @@
+
+.lnews-data {
+    padding-right: 60px;
+    font-size: 125%;
+}
+
+.lnews-data i {
+    margin-right: 5px;
+    color: #ffab40;
+    vertical-align: middle;
+}
+
+.lnews-data p {
+    margin-bottom: 15px !important;
+}
+
+
+.lnews-img-container {
+    max-width: 200px !important;
+    overflow: hidden;
+}
+
+.lnews-img-container .card-title {
+    text-shadow: 0px 2px 3px black;
+}
+
+.lnews-img {
+    max-height: 240px;
+    max-width: initial !important;
+}
